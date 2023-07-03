@@ -1,3 +1,4 @@
+//Questao 03
 //Criando a array musicas e armazenando 6 nomes de musicas 
 var musicas = ['Da lama ao caos', 'Praieira', 'Se eu não te cantar', '$enhor', 'Planos', 'Quadros'];
 
