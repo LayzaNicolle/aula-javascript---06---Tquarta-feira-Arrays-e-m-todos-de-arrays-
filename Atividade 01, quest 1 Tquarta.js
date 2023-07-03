@@ -1,3 +1,4 @@
+//Questao 01
 //criando uma array chamada itens e armazendo valores de 1 a 10
 var itens = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 //Exibindo no meu console a quantidade total de itens que tem na minha array e para isso usei o length.
