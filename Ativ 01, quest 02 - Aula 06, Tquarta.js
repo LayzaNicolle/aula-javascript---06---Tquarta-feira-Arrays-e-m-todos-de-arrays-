@@ -1,3 +1,4 @@
+//Questao 02
 //Criando a array filmes e armazenando nomes de 5 filmes nela
 var filmes = ['Pulp Fiction', 'Forrest Gump', 'Homem Aranha', 'Django', 'Era uma vez em Hollywood'];
 
